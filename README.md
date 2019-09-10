@@ -29,7 +29,7 @@
       <td>https://github.com/ZenglaiMa/GroupSoftwareProcess</td>
     </tr>
     <tr>
-      <td></td>
+      <td>软工六人行</td>
       <td>王予诺（组长）、杨迪、郑尚姿，范钰敏、杜瑜萌、张宇娟</td>
       <td>https://github.com/wangyn1998/Repository</td>
     </tr>
