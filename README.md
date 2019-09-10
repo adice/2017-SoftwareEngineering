@@ -74,17 +74,17 @@
       <td>https://github.com/Liuyuanduo/Software_Engineering</td>
     </tr> 
     <tr>
-      <td></td>
+      <td>四颗小白菜</td>
       <td>常延欣（组长）、尚春丽、张洁、银美丽</td>
       <td>https://github.com/changyanxin/SoftWare-Project</td>
     </tr>
     <tr>
-      <td></td>
+      <td>None</td>
       <td>王宇萌（组长）、赵一鸣（2班）、申领东、和龙飞、张灵、张静静、郑晨煊</td>
       <td>https://github.com/wangyumeng13/Repository.git</td>
     </tr>
     <tr>
-      <td></td>
+      <td>AI-Group</td>
       <td>陈鑫（组长）、刘梦婷、张琳、郭梦佳</td>
       <td>https://github.com/chenxin521/AI-Group.git</td>
     </tr>
