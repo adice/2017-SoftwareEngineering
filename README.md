@@ -24,7 +24,7 @@
       <td>https://github.com/lemonoink/software-process-homework</td>
     </tr>
     <tr>
-      <td></td>
+      <td>Happier</td>
       <td>马增来（组长）、颜枫桦、赵语涵、刘钶妍、乔子璇、陈雅楠</td>
       <td>https://github.com/ZenglaiMa/GroupSoftwareProcess</td>
     </tr>
