@@ -44,7 +44,7 @@
       <td>https://github.com/lvshufeng520/software-engineering</td>
     </tr>
     <tr>
-      <td></td>
+      <td>四小白</td>
       <td>冯娆（组长）、李子冉、刘美宁、杨柳</td>
       <td>https://github.com/fengrao1/ruanjiangongcheng</td>
     </tr>
@@ -54,7 +54,7 @@
       <td>https://github.com/wangyahong423/XiaoXiaoYuan</td>
     </tr>
     <tr>
-      <td></td>
+      <td>我永远喜欢桥本环奈</td>
       <td>薛腾飞（组长）、董逸凡、薛明星、房世有</td>
       <td>https://github.com/DonGYifan00/RuanjianGongcheng</td>
     </tr>
@@ -69,7 +69,7 @@
       <td>https://github.com/Misiying/rjgc106</td>
     </tr>
     <tr>
-      <td></td>
+      <td>我们也没起呢</td>
       <td>刘远铎（组长）、田雪、张宁、杨晓宇</td>
       <td>https://github.com/Liuyuanduo/Software_Engineering</td>
     </tr> 
@@ -89,12 +89,12 @@
       <td>https://github.com/chenxin521/AI-Group.git</td>
     </tr>
     <tr>
-      <td></td>
+      <td>demo</td>
       <td>秦晓旭（组长）、穆龙云、冯邵一、韩悦、平之华</td>
       <td>https://github.com/xiaoxuqin/NoBug</td>
     </tr>
     <tr>
-      <td></td>
+      <td>我们还没起呢</td>
       <td>周扬（组长）、郭子郡、张鑫涛、秦继贤、韩嘉昕</td>
       <td>https://github.com/Assapatt/Software_project.git</td>
     </tr>
@@ -104,7 +104,7 @@
       <td>https://github.com/guanyuanbin1313/zhazha</td>
     </tr> 
     <tr>
-      <td></td>
+      <td>四朵小花</td>
       <td>于成航（组长）、王奇、张书慧、刘俊渟</td>
       <td>https://github.com/ychhh/FourFlowers</td>
     </tr> 
