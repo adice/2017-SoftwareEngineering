@@ -19,7 +19,7 @@
       <td>https://github.com/WangXinping123/software-process-homework</td>
     </tr>
     <tr>
-      <td>不要你觉着我要我觉得组</td>
+      <td>不要你觉着我要我觉得队</td>
       <td>姜皓天（组长）、赵一鸣（1班）、曾雨晴、马晓燕、李雪纯、安文悦</td>
       <td>https://github.com/lemonoink/software-process-homework</td>
     </tr>
