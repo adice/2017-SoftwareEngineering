@@ -64,7 +64,7 @@
       <td>https://github.com/humenglian/ruanjiangongcheng</td>
     </tr>
      <tr>
-      <td></td>
+      <td>秃头小分队</td>
       <td>弥思盈（组长）、任紫萱、叶紫、王一然、李哲、王立雨</td>
       <td>https://github.com/Misiying/rjgc106</td>
     </tr>
@@ -99,7 +99,7 @@
       <td>https://github.com/Assapatt/Software_project.git</td>
     </tr>
      <tr>
-      <td></td>
+      <td>five-group</td>
       <td>官源斌（组长）、王耀鹏、李文勇、齐琳、左媛媛</td>
       <td>https://github.com/guanyuanbin1313/zhazha</td>
     </tr> 
