@@ -49,7 +49,7 @@
       <td>https://github.com/fengrao1/ruanjiangongcheng</td>
     </tr>
     <tr>
-      <td></td>
+      <td>独秀软工</td>
       <td>王亚红（组长）、董晓倩、孙妍、黄远龙、范珂欣、李雪</td>
       <td>https://github.com/wangyahong423/XiaoXiaoYuan</td>
     </tr>
