@@ -44,7 +44,7 @@
       <td>https://github.com/lvshufeng520/software-engineering</td>
     </tr>
     <tr>
-      <td>四小白</td>
+      <td>软件探险队</td>
       <td>冯娆（组长）、李子冉、刘美宁、杨柳</td>
       <td>https://github.com/fengrao1/ruanjiangongcheng</td>
     </tr>
