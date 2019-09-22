@@ -68,6 +68,11 @@
       <td>弥思盈（组长）、任紫萱、叶紫、王一然、李哲、王立雨</td>
       <td>https://github.com/Misiying/rjgc106</td>
     </tr>
+     <tr>
+      <td>我们还没起呢</td>
+      <td>周扬（组长）、郭子郡、张鑫涛、秦继贤、韩嘉昕</td>
+      <td>https://github.com/Assapatt/Software_project.git</td>
+    </tr>
     <tr>
       <td>我们也没起呢</td>
       <td>刘远铎（组长）、田雪、张宁、杨晓宇</td>
@@ -92,11 +97,6 @@
       <td>demo</td>
       <td>秦晓旭（组长）、穆龙云、冯邵一、韩悦、平之华</td>
       <td>https://github.com/xiaoxuqin/NoBug</td>
-    </tr>
-    <tr>
-      <td>我们还没起呢</td>
-      <td>周扬（组长）、郭子郡、张鑫涛、秦继贤、韩嘉昕</td>
-      <td>https://github.com/Assapatt/Software_project.git</td>
     </tr>
      <tr>
       <td>five-group</td>
